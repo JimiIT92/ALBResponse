@@ -1,4 +1,4 @@
-module github.com/GimignanoF/ALBResponse
+module ALBResponse
 
 go 1.12
 

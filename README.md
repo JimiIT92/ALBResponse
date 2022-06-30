@@ -3,7 +3,7 @@
 Go package with common AWS ALB Responses
 
 <p align="center">
-  <img src="https://craig.goddenpayne.co.uk/assets/img/load-balancers/cover.png" />
+  <img src="https://www.awsomeblog.com/wp-content/uploads/2016/09/alb.png" />
 </p>
 
 ## 🔧 Install
